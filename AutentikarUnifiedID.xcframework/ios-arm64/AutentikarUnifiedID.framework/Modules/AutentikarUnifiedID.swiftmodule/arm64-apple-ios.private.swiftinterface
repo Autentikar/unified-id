@@ -14,12 +14,18 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDCustomization : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDConfiguration : ObjectiveC.NSObject {
+  public static var shared: AutentikarUnifiedID.AutentikarUnifiedIDConfiguration
+  @objc override dynamic public init()
   @objc deinit
-  @objc public var backgroundColor: UIKit.UIColor {
+  @objc public var info: Swift.Bool
+  @objc public var bundle: Foundation.Bundle {
     @objc get
     @objc set
   }
+}
+@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDCustomization : ObjectiveC.NSObject {
+  @objc deinit
   @objc public var closeIconColor: UIKit.UIColor {
     @objc get
     @objc set
@@ -69,16 +75,6 @@ import _SwiftConcurrencyShims
     @objc override dynamic public init()
   }
   @objc override dynamic public init()
-}
-@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDConfiguration : ObjectiveC.NSObject {
-  public static var shared: AutentikarUnifiedID.AutentikarUnifiedIDConfiguration
-  @objc override dynamic public init()
-  @objc deinit
-  @objc public var info: Swift.Bool
-  @objc public var bundle: Foundation.Bundle {
-    @objc get
-    @objc set
-  }
 }
 @objc @_inheritsConvenienceInitializers public class AutentikarUnifiedIDManager : ObjectiveC.NSObject {
   @objc deinit
