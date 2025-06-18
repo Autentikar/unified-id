@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
 // swift-module-flags: -target arm64-apple-ios15 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AutentikarUnifiedID
-// swift-module-flags-ignorable:  -interface-compiler-version 6.1
+// swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
 import AutentikarCore
 @_exported import AutentikarUnifiedID
 import Combine
@@ -14,16 +14,6 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDConfiguration : ObjectiveC.NSObject {
-  public static var shared: AutentikarUnifiedID.AutentikarUnifiedIDConfiguration
-  @objc override dynamic public init()
-  @objc deinit
-  @objc public var info: Swift.Bool
-  @objc public var bundle: Foundation.Bundle {
-    @objc get
-    @objc set
-  }
-}
 @_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDCustomization : ObjectiveC.NSObject {
   @objc deinit
   @objc public var closeIconColor: UIKit.UIColor {
@@ -75,6 +65,16 @@ import _SwiftConcurrencyShims
     @objc override dynamic public init()
   }
   @objc override dynamic public init()
+}
+@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDConfiguration : ObjectiveC.NSObject {
+  public static var shared: AutentikarUnifiedID.AutentikarUnifiedIDConfiguration
+  @objc override dynamic public init()
+  @objc deinit
+  @objc public var info: Swift.Bool
+  @objc public var bundle: Foundation.Bundle {
+    @objc get
+    @objc set
+  }
 }
 @objc @_inheritsConvenienceInitializers public class AutentikarUnifiedIDManager : ObjectiveC.NSObject {
   @objc deinit

@@ -16,10 +16,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "FaceTecSDK",
         "printedName": "FaceTecSDK",
         "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -33,22 +46,8 @@
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID"
       },
@@ -57,462 +56,9 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
           "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AutentikarUnifiedIDConfiguration",
-        "printedName": "AutentikarUnifiedIDConfiguration",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "shared",
-            "printedName": "shared",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AutentikarUnifiedIDConfiguration",
-                "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvpZ",
-            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvpZ",
-            "moduleName": "AutentikarUnifiedID",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "AutentikarUnifiedIDConfiguration",
-                    "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
-                    "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvgZ",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvgZ",
-                "moduleName": "AutentikarUnifiedID",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "AutentikarUnifiedIDConfiguration",
-                    "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
-                    "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvsZ",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvsZ",
-                "moduleName": "AutentikarUnifiedID",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvMZ",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvMZ",
-                "moduleName": "AutentikarUnifiedID",
-                "static": true,
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AutentikarUnifiedIDConfiguration",
-                "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)init",
-            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationCACycfc",
-            "moduleName": "AutentikarUnifiedID",
-            "overriding": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "AccessControl",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Var",
-            "name": "info",
-            "printedName": "info",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(py)info",
-            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvp",
-            "moduleName": "AutentikarUnifiedID",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)info",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvg",
-                "moduleName": "AutentikarUnifiedID",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)setInfo:",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvs",
-                "moduleName": "AutentikarUnifiedID",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvM",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvM",
-                "moduleName": "AutentikarUnifiedID",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "bundle",
-            "printedName": "bundle",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bundle",
-                "printedName": "Foundation.Bundle",
-                "usr": "c:objc(cs)NSBundle"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(py)bundle",
-            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvp",
-            "moduleName": "AutentikarUnifiedID",
-            "declAttributes": [
-              "AccessControl",
-              "ObjC"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)bundle",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvg",
-                "moduleName": "AutentikarUnifiedID",
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)setBundle:",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvs",
-                "moduleName": "AutentikarUnifiedID",
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvM",
-                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvM",
-                "moduleName": "AutentikarUnifiedID",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration",
-        "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
         ]
       },
       {
@@ -1755,6 +1301,517 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutentikarUnifiedIDConfiguration",
+        "printedName": "AutentikarUnifiedIDConfiguration",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutentikarUnifiedIDConfiguration",
+                "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvpZ",
+            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvpZ",
+            "moduleName": "AutentikarUnifiedID",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutentikarUnifiedIDConfiguration",
+                    "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
+                    "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvgZ",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvgZ",
+                "moduleName": "AutentikarUnifiedID",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AutentikarUnifiedIDConfiguration",
+                    "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
+                    "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvsZ",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvsZ",
+                "moduleName": "AutentikarUnifiedID",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvMZ",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6sharedACvMZ",
+                "moduleName": "AutentikarUnifiedID",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutentikarUnifiedIDConfiguration",
+                "printedName": "AutentikarUnifiedID.AutentikarUnifiedIDConfiguration",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)init",
+            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationCACycfc",
+            "moduleName": "AutentikarUnifiedID",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "info",
+            "printedName": "info",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(py)info",
+            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvp",
+            "moduleName": "AutentikarUnifiedID",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)info",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvg",
+                "moduleName": "AutentikarUnifiedID",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)setInfo:",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvs",
+                "moduleName": "AutentikarUnifiedID",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvM",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC4infoSbvM",
+                "moduleName": "AutentikarUnifiedID",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "bundle",
+            "printedName": "bundle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bundle",
+                "printedName": "Foundation.Bundle",
+                "usr": "c:objc(cs)NSBundle"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(py)bundle",
+            "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvp",
+            "moduleName": "AutentikarUnifiedID",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)bundle",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvg",
+                "moduleName": "AutentikarUnifiedID",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration(im)setBundle:",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvs",
+                "moduleName": "AutentikarUnifiedID",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvM",
+                "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC6bundleSo8NSBundleCvM",
+                "moduleName": "AutentikarUnifiedID",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AutentikarUnifiedID@objc(cs)AutentikarUnifiedIDConfiguration",
+        "mangledName": "$s19AutentikarUnifiedID0aB15IDConfigurationC",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
         "name": "AutentikarCore",
         "printedName": "AutentikarCore",
         "declKind": "Import",
@@ -2197,13 +2254,27 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
       },
       {
         "kind": "Import",
@@ -2217,8 +2288,63 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "AutentikarCore",
+        "printedName": "AutentikarCore",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "AutentikarUnifiedID"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID"
       },
@@ -2226,132 +2352,6 @@
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "AutentikarCore",
-        "printedName": "AutentikarCore",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "FaceTecSDK",
-        "printedName": "FaceTecSDK",
-        "declKind": "Import",
-        "moduleName": "AutentikarUnifiedID"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID"
       },
@@ -2387,20 +2387,6 @@
     "json_format_version": 8
   },
   "ConstValues": [
-    {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
-      "kind": "BooleanLiteral",
-      "offset": 393,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 457,
-      "length": 26,
-      "value": "\"com.autentikar.unifiedID\""
-    },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Utilities\/Customizations\/AutentikarUnifiedIDCustomization.swift",
       "kind": "StringLiteral",
@@ -2526,6 +2512,20 @@
       "offset": 3660,
       "length": 2,
       "value": "17"
+    },
+    {
+      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 393,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 457,
+      "length": 26,
+      "value": "\"com.autentikar.unifiedID\""
     },
     {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
