@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
 // swift-module-flags: -target arm64-apple-ios15 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AutentikarUnifiedID
-// swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AutentikarCore
 @_exported import AutentikarUnifiedID
 import Combine
@@ -14,56 +14,12 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDCustomization : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class AutentikarUnifiedIDManager : ObjectiveC.NSObject {
   @objc deinit
-  @objc public var closeIconColor: UIKit.UIColor {
-    @objc get
-    @objc set
-  }
-  @objc public var text: AutentikarUnifiedID.AutentikarUnifiedIDCustomization.Text {
-    @objc get
-    @objc set
-  }
-  @objc public var iconColor: UIKit.UIColor {
-    @objc get
-    @objc set
-  }
-  @objc public var button: AutentikarUnifiedID.AutentikarUnifiedIDCustomization.Button {
-    @objc get
-    @objc set
-  }
-  @_inheritsConvenienceInitializers @objc public class Button : ObjectiveC.NSObject {
-    @objc deinit
-    @objc public var font: UIKit.UIFont {
-      @objc get
-      @objc set
-    }
-    @objc public var textColor: UIKit.UIColor {
-      @objc get
-      @objc set
-    }
-    @objc public var activeColor: UIKit.UIColor {
-      @objc get
-      @objc set
-    }
-    @objc public var disabledColor: UIKit.UIColor {
-      @objc get
-      @objc set
-    }
-    @objc override dynamic public init()
-  }
-  @_inheritsConvenienceInitializers @objc public class Text : ObjectiveC.NSObject {
-    @objc deinit
-    @objc public var font: UIKit.UIFont {
-      @objc get
-      @objc set
-    }
-    @objc public var color: UIKit.UIColor {
-      @objc get
-      @objc set
-    }
-    @objc override dynamic public init()
-  }
+  @objc public static let shared: AutentikarUnifiedID.AutentikarUnifiedIDManager
+  @objc public static var faceTecCustomization: FaceTecSDK.FaceTecCustomization
+  @objc public static var faceTecLowLightCustomization: FaceTecSDK.FaceTecCustomization
+  @objc public func setProtocol(_ step: AutentikarCore.AutentikarStepType) -> any AutentikarCore.AutentikarStepRouterProtocol
   @objc override dynamic public init()
 }
 @_inheritsConvenienceInitializers @objc public class AutentikarUnifiedIDConfiguration : ObjectiveC.NSObject {
@@ -75,13 +31,4 @@ import _SwiftConcurrencyShims
     @objc get
     @objc set
   }
-}
-@objc @_inheritsConvenienceInitializers public class AutentikarUnifiedIDManager : ObjectiveC.NSObject {
-  @objc deinit
-  @objc public static let shared: AutentikarUnifiedID.AutentikarUnifiedIDManager
-  @objc public static var faceTecCustomization: FaceTecSDK.FaceTecCustomization
-  @objc public static var faceTecLowLightCustomization: FaceTecSDK.FaceTecCustomization
-  @objc public func setCustomization(_ customization: AutentikarUnifiedID.AutentikarUnifiedIDCustomization)
-  @objc public func setProtocol(_ step: AutentikarCore.AutentikarStepType) -> any AutentikarCore.AutentikarStepRouterProtocol
-  @objc override dynamic public init()
 }
