@@ -2,8 +2,8 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/yesidm/Library/Developer/Xcode/DerivedData/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk/Build/Intermediates.noindex/ArchiveIntermediates/AutentikarUnifiedID/InstallationBuildProductsLocation/Library/Frameworks/AutentikarUnifiedID.framework/AutentikarUnifiedID'
 relocations:
-  - { offset: 0x6C845, size: 0x8, addend: 0x0, symName: _AutentikarUnifiedIDVersionString, symObjAddr: 0x0, symBinAddr: 0x1B700, symSize: 0x0 }
-  - { offset: 0x6C87C, size: 0x8, addend: 0x0, symName: _AutentikarUnifiedIDVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1B740, symSize: 0x0 }
+  - { offset: 0x6C845, size: 0x8, addend: 0x0, symName: _AutentikarUnifiedIDVersionString, symObjAddr: 0x0, symBinAddr: 0x1B810, symSize: 0x0 }
+  - { offset: 0x6C87C, size: 0x8, addend: 0x0, symName: _AutentikarUnifiedIDVersionNumber, symObjAddr: 0x40, symBinAddr: 0x1B850, symSize: 0x0 }
   - { offset: 0x6C8DE, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID0aB9IDManagerC6sharedACvpZ', symObjAddr: 0x858, symBinAddr: 0x29970, symSize: 0x0 }
   - { offset: 0x6CA00, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID0aB9IDManagerC20faceTecCustomizationSo04FacefG0CvpZ', symObjAddr: 0x868, symBinAddr: 0x29980, symSize: 0x0 }
   - { offset: 0x6CA1A, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID0aB9IDManagerC28faceTecLowLightCustomizationSo04FacefI0CvpZ', symObjAddr: 0x878, symBinAddr: 0x29990, symSize: 0x0 }
@@ -668,54 +668,54 @@ relocations:
   - { offset: 0x78BA3, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCMr', symObjAddr: 0x38, symBinAddr: 0x16F5C, symSize: 0x54 }
   - { offset: 0x78BB7, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCfE', symObjAddr: 0x8C, symBinAddr: 0x16FB0, symSize: 0x4C }
   - { offset: 0x78D23, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCfETo', symObjAddr: 0x258, symBinAddr: 0x1717C, symSize: 0x58 }
-  - { offset: 0x78D52, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCMU', symObjAddr: 0x68C, symBinAddr: 0x175B0, symSize: 0x8 }
-  - { offset: 0x78DD6, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyF', symObjAddr: 0x694, symBinAddr: 0x175B8, symSize: 0x648 }
-  - { offset: 0x78F78, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyFyyScMYccfU_', symObjAddr: 0xCDC, symBinAddr: 0x17C00, symSize: 0x43C }
-  - { offset: 0x7903D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tF', symObjAddr: 0x1118, symBinAddr: 0x1803C, symSize: 0x420 }
-  - { offset: 0x79123, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_', symObjAddr: 0x1538, symBinAddr: 0x1845C, symSize: 0x17C }
-  - { offset: 0x7918F, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCAA0deF8ProtocolA2aDP13userDidCancelyyFTW', symObjAddr: 0x16B4, symBinAddr: 0x185D8, symSize: 0x130 }
-  - { offset: 0x791C4, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFyyScMYccfU_TA', symObjAddr: 0x1890, symBinAddr: 0x1872C, symSize: 0x8 }
-  - { offset: 0x791D8, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1898, symBinAddr: 0x18734, symSize: 0x10 }
-  - { offset: 0x791EC, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x18A8, symBinAddr: 0x18744, symSize: 0x8 }
-  - { offset: 0x79200, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID22LivenessCheckPresenterC16showInstructionsyyF7SwiftUI7AnyViewVyXEfU_TA', symObjAddr: 0x193C, symBinAddr: 0x1874C, symSize: 0x8 }
-  - { offset: 0x79214, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyFyyScMYccfU_TA', symObjAddr: 0x1A34, symBinAddr: 0x187D8, symSize: 0x8 }
-  - { offset: 0x79228, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID21LivenessCheckResponseO7ProcessVSgWOy', symObjAddr: 0x1A3C, symBinAddr: 0x187E0, symSize: 0x44 }
-  - { offset: 0x7923C, size: 0x8, addend: 0x0, symName: '_$s14AutentikarCore0A5ErrorVyAA0aC4TypeOGSgWOc', symObjAddr: 0x1AA8, symBinAddr: 0x18824, symSize: 0x48 }
-  - { offset: 0x79250, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_TA', symObjAddr: 0x1B70, symBinAddr: 0x188AC, symSize: 0x8 }
+  - { offset: 0x78D52, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCMU', symObjAddr: 0x708, symBinAddr: 0x1762C, symSize: 0x8 }
+  - { offset: 0x78DD6, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyF', symObjAddr: 0x710, symBinAddr: 0x17634, symSize: 0x648 }
+  - { offset: 0x78F78, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyFyyScMYccfU_', symObjAddr: 0xD58, symBinAddr: 0x17C7C, symSize: 0x43C }
+  - { offset: 0x7903D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tF', symObjAddr: 0x1194, symBinAddr: 0x180B8, symSize: 0x420 }
+  - { offset: 0x79123, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_', symObjAddr: 0x15B4, symBinAddr: 0x184D8, symSize: 0x17C }
+  - { offset: 0x7918F, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCAA0deF8ProtocolA2aDP13userDidCancelyyFTW', symObjAddr: 0x1730, symBinAddr: 0x18654, symSize: 0x130 }
+  - { offset: 0x791C4, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFyyScMYccfU_TA', symObjAddr: 0x190C, symBinAddr: 0x187A8, symSize: 0x8 }
+  - { offset: 0x791D8, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1914, symBinAddr: 0x187B0, symSize: 0x10 }
+  - { offset: 0x791EC, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1924, symBinAddr: 0x187C0, symSize: 0x8 }
+  - { offset: 0x79200, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID22LivenessCheckPresenterC16showInstructionsyyF7SwiftUI7AnyViewVyXEfU_TA', symObjAddr: 0x19B8, symBinAddr: 0x187C8, symSize: 0x8 }
+  - { offset: 0x79214, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC010onCompletedE0yyFyyScMYccfU_TA', symObjAddr: 0x1AB0, symBinAddr: 0x18854, symSize: 0x8 }
+  - { offset: 0x79228, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID21LivenessCheckResponseO7ProcessVSgWOy', symObjAddr: 0x1AB8, symBinAddr: 0x1885C, symSize: 0x44 }
+  - { offset: 0x7923C, size: 0x8, addend: 0x0, symName: '_$s14AutentikarCore0A5ErrorVyAA0aC4TypeOGSgWOc', symObjAddr: 0x1B24, symBinAddr: 0x188A0, symSize: 0x48 }
+  - { offset: 0x79250, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_TA', symObjAddr: 0x1BEC, symBinAddr: 0x18928, symSize: 0x8 }
   - { offset: 0x7932C, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCfD', symObjAddr: 0xD8, symBinAddr: 0x16FFC, symSize: 0xEC }
   - { offset: 0x7938E, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCfDTo', symObjAddr: 0x1C4, symBinAddr: 0x170E8, symSize: 0x94 }
   - { offset: 0x793FD, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyF', symObjAddr: 0x2B0, symBinAddr: 0x171D4, symSize: 0x29C }
-  - { offset: 0x7944B, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFyyScMYccfU_', symObjAddr: 0x54C, symBinAddr: 0x17470, symSize: 0xA0 }
-  - { offset: 0x794CF, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x5EC, symBinAddr: 0x17510, symSize: 0x28 }
-  - { offset: 0x794F7, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCACycfcTo', symObjAddr: 0x614, symBinAddr: 0x17538, symSize: 0x78 }
-  - { offset: 0x7961E, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC08livenessE9PresenterAA0deI0CSgvsTf4gn_n', symObjAddr: 0x1944, symBinAddr: 0x18754, symSize: 0x84 }
-  - { offset: 0x7978A, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMa', symObjAddr: 0x0, symBinAddr: 0x188C4, symSize: 0x38 }
-  - { offset: 0x797A2, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMa', symObjAddr: 0x0, symBinAddr: 0x188C4, symSize: 0x38 }
-  - { offset: 0x797B6, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMr', symObjAddr: 0x38, symBinAddr: 0x188FC, symSize: 0x48 }
-  - { offset: 0x797CA, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x80, symBinAddr: 0x18944, symSize: 0x2C }
-  - { offset: 0x797E2, size: 0x8, addend: 0x0, symName: '_$sSbIeghy_SbIeyBhy_TR', symObjAddr: 0xAC, symBinAddr: 0x18970, symSize: 0x3C }
-  - { offset: 0x797FA, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfE', symObjAddr: 0xE8, symBinAddr: 0x189AC, symSize: 0x2C }
-  - { offset: 0x7996E, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfETo', symObjAddr: 0x25C, symBinAddr: 0x18B20, symSize: 0x38 }
-  - { offset: 0x7999D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMU', symObjAddr: 0x630, symBinAddr: 0x18EF4, symSize: 0x8 }
-  - { offset: 0x79A16, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyF', symObjAddr: 0x638, symBinAddr: 0x18EFC, symSize: 0x3B0 }
-  - { offset: 0x79B8C, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFyAA0dE8ResponseO7ProcessVcfU_', symObjAddr: 0x9E8, symBinAddr: 0x192AC, symSize: 0xAC }
-  - { offset: 0x79BD6, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFy0A4Core0A5ErrorVyAE0aK4TypeOGcfU0_', symObjAddr: 0xA94, symBinAddr: 0x19358, symSize: 0x5C }
-  - { offset: 0x79C41, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tF', symObjAddr: 0xAF0, symBinAddr: 0x193B4, symSize: 0x420 }
-  - { offset: 0x79D27, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_', symObjAddr: 0xF10, symBinAddr: 0x197D4, symSize: 0x17C }
-  - { offset: 0x79D75, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFyyScMYccfU_TA', symObjAddr: 0x1268, symBinAddr: 0x19974, symSize: 0x8 }
-  - { offset: 0x79D89, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1270, symBinAddr: 0x1997C, symSize: 0x10 }
-  - { offset: 0x79D9D, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1280, symBinAddr: 0x1998C, symSize: 0x8 }
-  - { offset: 0x79DB1, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID20PhotoIDScanPresenterC16showInstructionsyyF7SwiftUI7AnyViewVyXEfU_TA', symObjAddr: 0x135C, symBinAddr: 0x19994, symSize: 0x8 }
-  - { offset: 0x79DC5, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFyAA0dE8ResponseO7ProcessVcfU_TA', symObjAddr: 0x13EC, symBinAddr: 0x1999C, symSize: 0x8 }
-  - { offset: 0x79DD9, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFy0A4Core0A5ErrorVyAE0aK4TypeOGcfU0_TA', symObjAddr: 0x13F4, symBinAddr: 0x199A4, symSize: 0x8 }
-  - { offset: 0x79DED, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_TA', symObjAddr: 0x13FC, symBinAddr: 0x199AC, symSize: 0x8 }
-  - { offset: 0x79EC4, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfD', symObjAddr: 0x114, symBinAddr: 0x189D8, symSize: 0x124 }
-  - { offset: 0x79F81, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfDTo', symObjAddr: 0x238, symBinAddr: 0x18AFC, symSize: 0x24 }
-  - { offset: 0x79FCC, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyF', symObjAddr: 0x294, symBinAddr: 0x18B58, symSize: 0x27C }
-  - { offset: 0x7A01A, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFyyScMYccfU_', symObjAddr: 0x510, symBinAddr: 0x18DD4, symSize: 0xA0 }
-  - { offset: 0x7A09E, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x5B0, symBinAddr: 0x18E74, symSize: 0x28 }
-  - { offset: 0x7A0C6, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCACycfcTo', symObjAddr: 0x5D8, symBinAddr: 0x18E9C, symSize: 0x58 }
-  - { offset: 0x7A30B, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCfD', symObjAddr: 0x0, symBinAddr: 0x199BC, symSize: 0x10 }
-  - { offset: 0x7A34D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCMa', symObjAddr: 0x10, symBinAddr: 0x199CC, symSize: 0x20 }
-  - { offset: 0x7A369, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCfD', symObjAddr: 0x0, symBinAddr: 0x199BC, symSize: 0x10 }
+  - { offset: 0x7944B, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFyyScMYccfU_', symObjAddr: 0x54C, symBinAddr: 0x17470, symSize: 0x11C }
+  - { offset: 0x794E5, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x668, symBinAddr: 0x1758C, symSize: 0x28 }
+  - { offset: 0x7950D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerCACycfcTo', symObjAddr: 0x690, symBinAddr: 0x175B4, symSize: 0x78 }
+  - { offset: 0x79634, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID27LivenessCheckViewControllerC08livenessE9PresenterAA0deI0CSgvsTf4gn_n', symObjAddr: 0x19C0, symBinAddr: 0x187D0, symSize: 0x84 }
+  - { offset: 0x797A0, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMa', symObjAddr: 0x0, symBinAddr: 0x18940, symSize: 0x38 }
+  - { offset: 0x797B8, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMa', symObjAddr: 0x0, symBinAddr: 0x18940, symSize: 0x38 }
+  - { offset: 0x797CC, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMr', symObjAddr: 0x38, symBinAddr: 0x18978, symSize: 0x48 }
+  - { offset: 0x797E0, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x80, symBinAddr: 0x189C0, symSize: 0x2C }
+  - { offset: 0x797F8, size: 0x8, addend: 0x0, symName: '_$sSbIeghy_SbIeyBhy_TR', symObjAddr: 0xAC, symBinAddr: 0x189EC, symSize: 0x3C }
+  - { offset: 0x79810, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfE', symObjAddr: 0xE8, symBinAddr: 0x18A28, symSize: 0x2C }
+  - { offset: 0x79984, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfETo', symObjAddr: 0x25C, symBinAddr: 0x18B9C, symSize: 0x38 }
+  - { offset: 0x799B3, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCMU', symObjAddr: 0x6AC, symBinAddr: 0x18FEC, symSize: 0x8 }
+  - { offset: 0x79A2C, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyF', symObjAddr: 0x6B4, symBinAddr: 0x18FF4, symSize: 0x3B0 }
+  - { offset: 0x79BA2, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFyAA0dE8ResponseO7ProcessVcfU_', symObjAddr: 0xA64, symBinAddr: 0x193A4, symSize: 0xAC }
+  - { offset: 0x79BEC, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFy0A4Core0A5ErrorVyAE0aK4TypeOGcfU0_', symObjAddr: 0xB10, symBinAddr: 0x19450, symSize: 0x5C }
+  - { offset: 0x79C57, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tF', symObjAddr: 0xB6C, symBinAddr: 0x194AC, symSize: 0x420 }
+  - { offset: 0x79D3D, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_', symObjAddr: 0xF8C, symBinAddr: 0x198CC, symSize: 0x17C }
+  - { offset: 0x79D8B, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFyyScMYccfU_TA', symObjAddr: 0x12E4, symBinAddr: 0x19A6C, symSize: 0x8 }
+  - { offset: 0x79D9F, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x12EC, symBinAddr: 0x19A74, symSize: 0x10 }
+  - { offset: 0x79DB3, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x12FC, symBinAddr: 0x19A84, symSize: 0x8 }
+  - { offset: 0x79DC7, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID20PhotoIDScanPresenterC16showInstructionsyyF7SwiftUI7AnyViewVyXEfU_TA', symObjAddr: 0x13D8, symBinAddr: 0x19A8C, symSize: 0x8 }
+  - { offset: 0x79DDB, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFyAA0dE8ResponseO7ProcessVcfU_TA', symObjAddr: 0x1468, symBinAddr: 0x19A94, symSize: 0x8 }
+  - { offset: 0x79DEF, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC010onCompletedE0yyFy0A4Core0A5ErrorVyAE0aK4TypeOGcfU0_TA', symObjAddr: 0x1470, symBinAddr: 0x19A9C, symSize: 0x8 }
+  - { offset: 0x79E03, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC9getParams4withyAA0dE8ResponseO0I0V_tFySbYbcfU_TA', symObjAddr: 0x1478, symBinAddr: 0x19AA4, symSize: 0x8 }
+  - { offset: 0x79EDA, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfD', symObjAddr: 0x114, symBinAddr: 0x18A54, symSize: 0x124 }
+  - { offset: 0x79F97, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCfDTo', symObjAddr: 0x238, symBinAddr: 0x18B78, symSize: 0x24 }
+  - { offset: 0x79FE2, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyF', symObjAddr: 0x294, symBinAddr: 0x18BD4, symSize: 0x27C }
+  - { offset: 0x7A030, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFyyScMYccfU_', symObjAddr: 0x510, symBinAddr: 0x18E50, symSize: 0x11C }
+  - { offset: 0x7A0CA, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerC11viewDidLoadyyFTo', symObjAddr: 0x62C, symBinAddr: 0x18F6C, symSize: 0x28 }
+  - { offset: 0x7A0F2, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID25PhotoIDScanViewControllerCACycfcTo', symObjAddr: 0x654, symBinAddr: 0x18F94, symSize: 0x58 }
+  - { offset: 0x7A337, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCfD', symObjAddr: 0x0, symBinAddr: 0x19AB4, symSize: 0x10 }
+  - { offset: 0x7A379, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCMa', symObjAddr: 0x10, symBinAddr: 0x19AC4, symSize: 0x20 }
+  - { offset: 0x7A395, size: 0x8, addend: 0x0, symName: '_$s19AutentikarUnifiedID19ResourceBundleClass33_EB1C17F43CE8CFA723BCC2BE1A65B8D5LLCfD', symObjAddr: 0x0, symBinAddr: 0x19AB4, symSize: 0x10 }
 ...
