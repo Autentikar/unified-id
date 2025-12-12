@@ -6,35 +6,35 @@
 	<dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Assets.car</key>
 		<data>
-		vNWwueNcNr50dJY72mrerSfiY7o=
+		P8a43GFBYfijuhe+keECIoFISJc=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/AutentikarUnifiedID</key>
 		<data>
-		+t9gbf2vu5eJJLW44JBKE4yDpjg=
+		fCa3l84L46IubaItIgny+d4QxcU=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Assets.car</key>
 		<data>
-		PlA39Rat5e7D1DpxjCrhv+1X/qs=
+		eMsuJezSSE7EdHFJVwa2Q3KP40o=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/AutentikarCore</key>
 		<data>
-		T8AmF//rebeGy2YdZ+MhE3dmIe4=
+		gGF8/nirg0Vd5ya/H7GIg8WXq6s=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Info.plist</key>
 		<data>
-		E1MmGdBSewFqAckUoWZkgTxacDs=
+		T4m/PGuZ6dLBZ/G8MoPCGWIswug=
 		</data>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Light.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-Light.ttf</key>
 		<data>
-		IsbkWtLgUsVrmqc/52jf/gTp1K8=
+		iLAQJ+TUexyw9Ob7roiN3IGGb3g=
 		</data>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Medium.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-Regular.ttf</key>
 		<data>
-		1zTBSVh8EtkIPAO8kACchLUq7Hg=
+		6gfTPyP7bEhWpkLQNcRj3Jmn+Io=
 		</data>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Regular.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-SemiBold.ttf</key>
 		<data>
-		PDzBYx/TE1MbxLRNy2bnxB5rzwc=
+		V2zPEL4RZS/DCfNoKjJ6mIR8WW4=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/en.lproj/Localizable.strings</key>
 		<dict>
@@ -60,7 +60,7 @@
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Info.plist</key>
 		<data>
-		0hbEGPprvrSaURXmwKagFdSgTj8=
+		fyGB3S0CJS1pEL/MpQyD1FXbJVE=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -68,15 +68,15 @@
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		LlOO5X2ZskOEmpudpSdRxvl3da8=
+		P6VIsj2WwBjaPp8y1Y5gA7l9WlU=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		6hZNv34H3+BrHbhwQoGFTRvKFH0=
+		v5uEugw2y19ZuP/AGNMmQpImwkA=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		LlOO5X2ZskOEmpudpSdRxvl3da8=
+		P6VIsj2WwBjaPp8y1Y5gA7l9WlU=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/module.modulemap</key>
 		<data>
@@ -102,15 +102,15 @@
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		ptiKVGQQRtg9PG/6Xg/sbRXWKWU=
+		fO/HYf4sxyTbdR4SlTS0iUyTPm0=
 		</data>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
 		<data>
-		vQVAymRYEOwUZeVZeW0gCfrvuiA=
+		H4TG1zSWUhRxc3RYl2jqWgtDV2Q=
 		</data>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
 		<data>
-		hkj4pPUDJFKCtDtSxFAi9CNYEvY=
+		ShCzD/Eh/O982KihyGzqwIySNKk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -119,56 +119,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VDt4dJxusch8emxZBylpfb9+b1QH/HAWHu7lWlFYxSY=
+			+vGw5sNvuSRchXUAeeHKPZWsIALTFg+EyPOmHrPHW+s=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/AutentikarUnifiedID</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cT25SxlQsG7ZZQCP7PP8y1k8xeiWr2K32JzVmrf8nKU=
+			AmHP2T3dIt+kWrjGNaayNied+yKiafBQy5NinIiEKHg=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			42JOWynP5RBZbDfYL34j4IHcvKmN0fYzE11tDESazy8=
+			i0W1rnEgITPkYnF6gn4uaVMG8kTNJeByBCI7u5S0Mp4=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/AutentikarCore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VVvTDv12aZ6+u2sf9pZzjebhXhGlkHMkKkFMNKx3M4=
+			XQEBZMwV65r0VOVQ31urkuGdZv5FHp8mhHvGmqgbfow=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z63lNex1D6tfblZC+3VtnNHiuhPOgiAVdWSHootOMH8=
+			Ua5sU24AzYbCSB3IGFNqzsLrfr6HRSioU1D/9H+3lxA=
 			</data>
 		</dict>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Light.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-Light.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V8qlAAn6flNXd9+hKU6BdfmRCFa0Pmn9Sh8NgwyXU2I=
+			5QXla2amcqqeUTRwxC5SvcMpUCmd5bdRMvkhn0gqAXk=
 			</data>
 		</dict>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Medium.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-Regular.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zkDSfGyQuZAilRDEYRXshSI3J24aoJzev/xq4IWx0eI=
+			ym75BwKNHRgIhwln17fdz2jA8zVS0V1/DGx9aul+dXE=
 			</data>
 		</dict>
-		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/Rubik-Regular.ttf</key>
+		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/PlusJakartaSans-SemiBold.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTX/cC7AfqTXmJ+Lu3YGUbfeFwkinJH5B1it1L/lg6M=
+			u6odIc5IOQcFR7HMBtXbKlb1IKvpAnjZcWZbP23KaFE=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Frameworks/AutentikarCore.framework/en.lproj/Localizable.strings</key>
@@ -200,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbPEhMIIPW/FqHp0B+HgD1B/aVPeS0U0WHwWkkA9jWo=
+			m2X5e1FZOFpwPfYP8YqU9uLO/NXx7oONz4o6EnUPjLA=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -214,21 +214,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7aQJD8fZPLN77cS/7xvQrrQMwuq1gfdbW3KEBeqb96g=
+			mhy6A2X+7fvW9ETLFUE2c57MV8NLzrfJ29CWU9ZcRsY=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nhWyIlLVI8Ya+06RndbnmYrYt13+AyYVvP2uYE8hvUs=
+			5QgYtrvcWWBfYadWgOwDnLBTrPrLIJyA1cO9+4/w4Is=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7aQJD8fZPLN77cS/7xvQrrQMwuq1gfdbW3KEBeqb96g=
+			mhy6A2X+7fvW9ETLFUE2c57MV8NLzrfJ29CWU9ZcRsY=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/module.modulemap</key>
@@ -260,21 +260,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UREneH8L55UHyBq4yFfXEIOLCs0A34hz1EgSOTYqIZk=
+			Myq92PecmkG3M9nvHtd4I7ylz9oumm9sY0MkMO+qfsE=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RufYan1oJmkp/nf4PoNyhQc+GZ+T8bTTWPO4JdQr9NM=
+			uk3+6wbYSH3p9FEWNo1+jBQtDnBUBuho4OZnQRy8AdU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qRXz5g3ZSVzuICKDRlJP1eNyLX06k/b7rMmSixczDfc=
+			kd6pwgQZS77UWNWcsCyll83wvWr2B1AiLEz2rzKUrmA=
 			</data>
 		</dict>
 	</dict>
