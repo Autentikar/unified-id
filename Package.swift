@@ -11,7 +11,7 @@ let package = Package(
             targets: ["AutentikarUnifiedIDWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Autentikar/faceTec-dependency.git", from: "9.7.96"),
+        .package(url: "https://github.com/Autentikar/faceTec-dependency.git", from: "9.7.108"),
     ],
     targets: [
         .target(
