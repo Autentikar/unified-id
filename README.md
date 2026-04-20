@@ -1,6 +1,6 @@
 # AutentikarUnifiedID
 
-## version 9.7.112 :rocket:
+## version 9.7.117 :rocket:
 
 ---
 
@@ -9,7 +9,7 @@
 This package supports two FaceTec dependency sources:
 
 | Environment | Dependency |
-|---|---|
+|---|---|	
 | **Production** (default) | `faceTec-dependency` |
 | **Development** | `facetec-development-dependency` |
 
