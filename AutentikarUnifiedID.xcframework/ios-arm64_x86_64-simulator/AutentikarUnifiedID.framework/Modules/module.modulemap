@@ -1,0 +1,6 @@
+framework module AutentikarUnifiedID {
+  umbrella header "AutentikarUnifiedID.h"
+  export *
+
+  module * { export * }
+}

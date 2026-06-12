@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/AutentikarUnifiedID</key>
 		<data>
-		ntU6it85l7PprRbCtrjh9m5NUKg=
+		LEKBoRChq+BpteKkH8wAhjnL2Tg=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Headers/AutentikarUnifiedID.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Info.plist</key>
 		<data>
-		wov6cxK3Akwxk89IcJ8xJce64pA=
+		WKz5Vpm+AjSrweQFKDTvuoni+lM=
 		</data>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -60,11 +60,11 @@
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		lWxTIT4KwSX2VZU1d5z19SvQBXM=
+		ZC3fWVzSKrfFKyH2wCny/49FEB4=
 		</data>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
 		<data>
-		jA3MvM1jNBmuG1gwW6Aev0ClH88=
+		et5EDjgvZGsDExd8R10e3VIdvW8=
 		</data>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
 		<data>
@@ -72,7 +72,105 @@
 		</data>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Swift/aarch64/AutentikarCore.swiftinterface</key>
 		<data>
-		wYelPzMYcH+XvtkTjxw/OQOGLe8=
+		1DfFFlCMFdMj8Q2S7LU2ocpCQEg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Assets.car</key>
+		<data>
+		7Dbd5NSkzdm6xRenmoHWCoJ3cHk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/AutentikarUnifiedID</key>
+		<data>
+		fy1kU04p3HqGiHYn2wtsYGotH7o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Headers/AutentikarUnifiedID.h</key>
+		<data>
+		rHDIosnZ1ZKexMFUdXeC452ZwaA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Info.plist</key>
+		<data>
+		IOD3Y7N79y1y25y8dUWty0FIYg0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		Xh9irWuiNB6UVTkJ1+lZ+dQAZUc=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		7gXxjghAqhfcHv8sO65o0iGO2vE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		ku/TmQbil68OBSYc/GwyLmNFijE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		7gXxjghAqhfcHv8sO65o0iGO2vE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		Xh9irWuiNB6UVTkJ1+lZ+dQAZUc=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		9Moyatxui9/of1g8Zu2fxiylN/s=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		58D+Gu2UqzM6yDmZr/xwVR0hYIs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		9Moyatxui9/of1g8Zu2fxiylN/s=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/module.modulemap</key>
+		<data>
+		jmomrjTF/H2vcPLsVv+GeBwikV8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/_CodeSignature/CodeResources</key>
+		<data>
+		CG9QAQtA5Iun9aBnbbBofLezJ6A=
+		</data>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EkMClanomczFyympiRbSOSLEd3A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x/wwDQpUa4RMJKPvDiSNyenC52g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		ZC3fWVzSKrfFKyH2wCny/49FEB4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
+		<data>
+		ZPSueA8erqnsPOVt9xaAFzx/CgU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
+		<data>
+		sQFxKys2zQFHW8kZxVoQlSmTf6Q=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/x86_64/AutentikarUnifiedID.yml</key>
+		<data>
+		Syv42hztXHu8Ss1BGcPzTlAJSxY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Swift/aarch64/AutentikarCore.swiftinterface</key>
+		<data>
+		FMA5ftAwtbEaiRpcHcdsmQXXgWo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Swift/x86_64/AutentikarCore.swiftinterface</key>
+		<data>
+		5cIRBXW/l3P7iWHXICyGIYv2c7g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,7 +186,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uyogbe4Rcg7xqPHqCnzr1yMmQxe7/lHNxwsCqPhXp/4=
+			7VJ1p3y6RDaF2Mqgpag6HHEjY+h3KGoI2RaB0xprHlM=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Headers/AutentikarUnifiedID.h</key>
@@ -102,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZRLYY0lbUJ5dhIRFk2Y4d04UfrdyP0LfwLu5/sacbbo=
+			JqR1Ukofn1uR3NNnX5C2C4Sm28/MmMay4DNBcW0O0u0=
 			</data>
 		</dict>
 		<key>ios-arm64/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -162,14 +260,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hyAOWJexYMrIy4cy+n2fECF2zJQETwYTVBQLApddO4U=
+			9VdDeNQwURW7RQoaGcU+ySvLPlAHKRJ84Z4lzhDvLaU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZuEB0QP9AQirTECjaX/JEtDoFOMVQtkQ8qmJeHWYsE=
+			+lm02JxTdF8hhpRU3+PONIzTX41KeoKvTIhCWfjVKMI=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
@@ -183,7 +281,165 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tPCYkmz0DAEGZlB0IE4i2twdd33kilQSXSHf1qG+cos=
+			L709fit4DyIAM9cH2Uax0JpaVgR9P1nU8p9T2Zhpyx4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1j0C+Mdg1dkJvB2SPBa3S45+29dgNaTZ3zcreGoIHDY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/AutentikarUnifiedID</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ApoT+JXS5Alh8ckw4uPu3imXgu/z1kapgC+v5SDRdI8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Headers/AutentikarUnifiedID.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LJzjXTgV6ZzFLaRp6dnA1G2GjBJF19fwkvp48Rt3feI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V14YZVH+0fRPFhV07mC1A1sjcD81uqcx4Q5/diZ3bDI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I47WMvyWuVpLx8iua4JtydjiAgzPEzhnfRG6RzpcIQ8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TglcwBQNX9pvMPhtdee/cb6yec4e8Y08n+/X2vnuZcU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dgc621lHKfuSmoEsVuMZVEgN1xfCPcOYHMenk6/oklA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TglcwBQNX9pvMPhtdee/cb6yec4e8Y08n+/X2vnuZcU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I47WMvyWuVpLx8iua4JtydjiAgzPEzhnfRG6RzpcIQ8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxv1KEcMjI3bBpWWQqnOPFIOqf/b2yDcLCmZpye1isA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scAS3J2HoKNVoETFI192613mXfaBVcTpvAYCnZaLtPo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxv1KEcMjI3bBpWWQqnOPFIOqf/b2yDcLCmZpye1isA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dY13YUYbX3MfuwEj5vDF8e2/A2d+wbfEBdHuDmYvasg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PgpGVVeT5oN9JpwnjDpMQ4y5gdeWWABZ9OjJvjNvMDQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			239AK2Z7C2IFYQlPNT077HguHHFmCKXhBFYmWiZqQz0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/AutentikarUnifiedID.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			25eqL67STKzSN3fOEw6aRVxHOcTiblw+ryOgOky3xzY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9VdDeNQwURW7RQoaGcU+ySvLPlAHKRJ84Z4lzhDvLaU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/DWARF/AutentikarUnifiedID</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VqaeBKhw6U0Y9+TH8VyE7Ww4hKGC5co9leMIHJNzBtg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/aarch64/AutentikarUnifiedID.yml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HsS2yeRzf9baM4DHHHfba9l8p0PFuhh5sAMue+C5KJ4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Relocations/x86_64/AutentikarUnifiedID.yml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JbUxuZHqcqYZ59Jlz3hsxQjW0BYfGDS6TKxQjPzifeo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Swift/aarch64/AutentikarCore.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ibB7C5MM3/l56nmpWcmiBfnHfPpc6F4oDoiiDDDVMLM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AutentikarUnifiedID.framework.dSYM/Contents/Resources/Swift/x86_64/AutentikarCore.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mms7JTH9oXpDDbfWh5dgRuf79qUwt4eEGJ0SzWoqftE=
 			</data>
 		</dict>
 	</dict>
