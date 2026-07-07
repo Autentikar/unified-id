@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		7Dbd5NSkzdm6xRenmoHWCoJ3cHk=
+		l+birufE9lpcg2bl4PG6LEegN1I=
 		</data>
 		<key>Headers/AutentikarUnifiedID.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IOD3Y7N79y1y25y8dUWty0FIYg0=
+		pm5wKs7Nhpv+DmO3OqCxpNfDK6M=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7gXxjghAqhfcHv8sO65o0iGO2vE=
+		23+M5B/t+lwf5s/utNs2t+CV8O8=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ku/TmQbil68OBSYc/GwyLmNFijE=
+		WNMvUepRYeLT9wc5fufLdqX0QGQ=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7gXxjghAqhfcHv8sO65o0iGO2vE=
+		23+M5B/t+lwf5s/utNs2t+CV8O8=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oACG+RBYJcU8LnYwAwxzCIUa8LQ=
+		CIQ0g/FpSRg5/EKjYQtV/KpiBU8=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9Moyatxui9/of1g8Zu2fxiylN/s=
+		lcV2v9rjli0NYqamfMVPJoah1Wc=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		58D+Gu2UqzM6yDmZr/xwVR0hYIs=
+		YwPcBM9+ssE3zic3kQEJhyGIcMo=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9Moyatxui9/of1g8Zu2fxiylN/s=
+		lcV2v9rjli0NYqamfMVPJoah1Wc=
 		</data>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dMUmfpsJEHHYl+pQh27gqyEbv6I=
+		nvp8LxI0TDa3xdbFRBD1QCJStPw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1j0C+Mdg1dkJvB2SPBa3S45+29dgNaTZ3zcreGoIHDY=
+			cz8+5Bwom4I9yARbMW+Fl9OYlMMg8i6WL34aAl5huDk=
 			</data>
 		</dict>
 		<key>Headers/AutentikarUnifiedID.h</key>
@@ -106,28 +106,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TglcwBQNX9pvMPhtdee/cb6yec4e8Y08n+/X2vnuZcU=
+			FceBLHlF6bjavvFUrblaxdYylcIdVnWzBjvxG8C7ws8=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dgc621lHKfuSmoEsVuMZVEgN1xfCPcOYHMenk6/oklA=
+			ZfcGtpoaPfV1jYeIWLSQVtDuB0wVRWt+WDikOW/+8dY=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TglcwBQNX9pvMPhtdee/cb6yec4e8Y08n+/X2vnuZcU=
+			FceBLHlF6bjavvFUrblaxdYylcIdVnWzBjvxG8C7ws8=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j6876jozWI9PsgMgcupAcxp0utllcmq+ta91dVVTFpA=
+			xEJNU5eiidxL3Y6JyNobNp2RVtdr1Z7HX/ZDhR5Sx50=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -141,28 +141,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wxv1KEcMjI3bBpWWQqnOPFIOqf/b2yDcLCmZpye1isA=
+			FyRjzCzAVswVMIucKzcVvIQo+JYIlpCZKEOd5Qpuq88=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			scAS3J2HoKNVoETFI192613mXfaBVcTpvAYCnZaLtPo=
+			puUif7kZCazac7++1I5ehq3kx/r13zMusHYPxQoUOpg=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wxv1KEcMjI3bBpWWQqnOPFIOqf/b2yDcLCmZpye1isA=
+			FyRjzCzAVswVMIucKzcVvIQo+JYIlpCZKEOd5Qpuq88=
 			</data>
 		</dict>
 		<key>Modules/AutentikarUnifiedID.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jYVH/Ojt7YyezHChU3fk0SbqD2bi8B02BryGcSawl7g=
+			vdbODDcyvrFGSpOdbvvMQa82dDwpjPiYnC8+iH37I+w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
