@@ -21,7 +21,7 @@ let package = Package(
             targets: ["AutentikarUnifiedIDWrapper"]),
     ],
     dependencies: [
-        .package(url: faceTecURL, from: "9.7.138"),
+        .package(url: faceTecURL, from: "9.7.142"),
     ],
     targets: [
         .target(

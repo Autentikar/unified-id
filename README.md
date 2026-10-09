@@ -1,6 +1,6 @@
 # AutentikarUnifiedID
 
-## version 9.7.138 :rocket:
+## version 9.7.142 :rocket:
 
 ---
 
