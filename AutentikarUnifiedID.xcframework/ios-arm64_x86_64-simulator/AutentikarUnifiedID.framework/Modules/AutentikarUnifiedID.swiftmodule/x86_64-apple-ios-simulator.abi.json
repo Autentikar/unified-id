@@ -828,6 +828,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -845,6 +846,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -855,6 +857,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -893,6 +896,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -958,6 +962,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1015,6 +1020,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1056,6 +1062,7 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
+          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1137,6 +1144,13 @@
       "value": "\"com.autentikar.unifiedID\""
     },
     {
+      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Entity\/Instructions\/InstructionConfigResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 14,
+      "value": "\"header_image\""
+    },
+    {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 813,
@@ -1151,6 +1165,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 963,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 665,
@@ -1161,6 +1182,13 @@
       "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 690,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 868,
       "length": 5,
       "value": "false"
     },
