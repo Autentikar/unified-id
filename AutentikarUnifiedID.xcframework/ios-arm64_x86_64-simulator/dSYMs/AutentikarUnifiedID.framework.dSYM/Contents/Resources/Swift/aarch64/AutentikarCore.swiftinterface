@@ -16,11 +16,11 @@ public struct AutentikarError<T> : Swift::Error {
   public let type: T
   public init(type: T)
 }
-@_spi(AutentikarInternal) @objc @_inheritsConvenienceInitializers public class AutentikarCEManager : ObjectiveC::NSObject {
-  @_spi(AutentikarInternal) @objc deinit
-  @_spi(AutentikarInternal) public func getStepParams(request: Foundation::Data, step: AutentikarCore::AutentikarStepType, success: @escaping (AutentikarCore::NetworkResponse) -> Swift::Void, failure: @escaping (AutentikarCore::AutentikarError<AutentikarCore::AutentikarErrorType>) -> Swift::Void)
-  @_spi(AutentikarInternal) public func getMethod(step: AutentikarCore::AutentikarStepType, method: AutentikarCore::AutentikarMethodType, request: Foundation::Data?, success: @escaping (AutentikarCore::NetworkResponse) -> Swift::Void, failure: @escaping (AutentikarCore::AutentikarError<AutentikarCore::AutentikarErrorType>) -> Swift::Void)
-  @_spi(AutentikarInternal) @objc override dynamic public init()
+@objc @_inheritsConvenienceInitializers public class AutentikarCEManager : ObjectiveC::NSObject {
+  @objc deinit
+  public func getStepParams(request: Foundation::Data, step: AutentikarCore::AutentikarStepType, success: @escaping (AutentikarCore::NetworkResponse) -> Swift::Void, failure: @escaping (AutentikarCore::AutentikarError<AutentikarCore::AutentikarErrorType>) -> Swift::Void)
+  public func getMethod(step: AutentikarCore::AutentikarStepType, method: AutentikarCore::AutentikarMethodType, request: Foundation::Data?, success: @escaping (AutentikarCore::NetworkResponse) -> Swift::Void, failure: @escaping (AutentikarCore::AutentikarError<AutentikarCore::AutentikarErrorType>) -> Swift::Void)
+  @objc override dynamic public init()
 }
 @objc @_inheritsConvenienceInitializers public class AutentikarManager : ObjectiveC::NSObject {
   @objc deinit
@@ -217,7 +217,6 @@ open class BaseViewModel : Combine::ObservableObject {
   public func dismissSheet()
   public func showSheet()
   public func instructionsView(instructionType: AutentikarCore::AutentikarInstructionsType, onAgree: @escaping () -> Swift::Void, onDismiss: @escaping () -> Swift::Void) -> SwiftUICore::AnyView
-  @_spi(AutentikarInternal) public func presentInstructionsView(instructionType: AutentikarCore::AutentikarInstructionsType, imageSource: Swift::String?, onAgree: @escaping () -> Swift::Void, onDismiss: @escaping () -> Swift::Void)
   public func startFooterTimer()
   public func stopFooterTimer()
   public typealias ObjectWillChangePublisher = Combine::ObservableObjectPublisher
@@ -235,6 +234,7 @@ open class BaseViewModel : Combine::ObservableObject {
   @objc public var stage: AutentikarCore::AutentikarStageType
   @objc public var alias: Swift::String
   @objc public var url: Swift::String?
+  @objc public var headers: [Swift::String : Any]?
   @objc public var enableInstructions: Swift::Bool
   @objc public var autoConsent: Swift::Bool
 }
@@ -243,7 +243,7 @@ public struct NetworkResponse {
   public let statusCode: Swift::Int
 }
 public enum AutentikarCERouter {
-  @_spi(AutentikarInternal) public static func setup() -> AutentikarCore::AutentikarCEManager
+  public static func setup() -> AutentikarCore::AutentikarCEManager
 }
 @_inheritsConvenienceInitializers @objc public class AutentikarCoreCustomization : ObjectiveC::NSObject {
   @objc deinit
@@ -334,10 +334,6 @@ public enum AutentikarCERouter {
       @objc set
     }
     @objc public var disabledColor: UIKit::UIColor {
-      @objc get
-      @objc set
-    }
-    @objc public var cornerRadius: CoreFoundation::CGFloat {
       @objc get
       @objc set
     }

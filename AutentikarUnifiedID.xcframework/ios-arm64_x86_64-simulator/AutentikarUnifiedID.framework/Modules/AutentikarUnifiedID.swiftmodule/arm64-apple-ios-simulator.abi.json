@@ -828,7 +828,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -846,7 +845,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -857,7 +855,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -896,7 +893,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -962,7 +958,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1020,7 +1015,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1062,7 +1056,6 @@
         "declKind": "Import",
         "moduleName": "AutentikarUnifiedID",
         "declAttributes": [
-          "SPIAccessControl",
           "RawDocComment"
         ]
       },
@@ -1130,112 +1123,91 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 393,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Configuration\/AutentikarUnifiedIDConfiguration.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 26,
       "value": "\"com.autentikar.unifiedID\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Entity\/Instructions\/InstructionConfigResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 318,
-      "length": 14,
-      "value": "\"header_image\""
-    },
-    {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 813,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 838,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/LivenessCheckProcessor.swift",
-      "kind": "BooleanLiteral",
-      "offset": 963,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 665,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
+      "filePath": "\/Users\/yesid\/Documents\/autentikar\/sdk\/ios\/modules\/unified-id-sdk-ios\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
       "kind": "BooleanLiteral",
       "offset": 690,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/yesidm\/Documents\/Active_IT-Autentikar\/Projects\/autentikar-v2\/ios\/modules\/AutentikarUnifiedID\/AutentikarUnifiedID\/Processor\/PhotoIDScanProcessor.swift",
-      "kind": "BooleanLiteral",
-      "offset": 868,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 753,
       "length": 22,
       "value": "\"autentikarCameraIcon\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 920,
       "length": 22,
       "value": "\"autentikarCloseImage\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1093,
       "length": 25,
       "value": "\"autentikarDarkLogoImage\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1264,
       "length": 20,
       "value": "\"autentikarFlashOff\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1428,
       "length": 19,
       "value": "\"autentikarFlashOn\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1602,
       "length": 27,
       "value": "\"autentikarIDCardBackImage\""
     },
     {
-      "filePath": "\/Users\/yesidm\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-eczfasgcjabsiogakytjsrrdpwbk\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/yesid\/Library\/Developer\/Xcode\/DerivedData\/AutentikarUnifiedID-heanftwcdusphhfujpmcqqzriwsv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AutentikarUnifiedID\/IntermediateBuildFilesPath\/AutentikarUnifiedID.build\/Release-iphonesimulator\/AutentikarUnifiedID.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1786,
       "length": 28,
